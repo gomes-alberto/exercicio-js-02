@@ -1,4 +1,4 @@
-# 💡 Ligua, desligua & quebra
+# 💡 Liga, desliga & quebra
 
 ## 📌 Sobre o Projeto
 
